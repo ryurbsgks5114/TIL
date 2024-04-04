@@ -52,7 +52,7 @@ script 태그는 데이터와 실행 가능한 코드를 문서에 포함할 때
 
 ```
 <head>
-  <script src='JS_file_path'></script>
+  <script src='파일 경로'></script>
 </head>
 ```
 

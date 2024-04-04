@@ -75,7 +75,7 @@ HTML 문서에 CSS를 적용하는 방법에는 인라인 스타일, 내부 스�
 
 ```
 <head>
-  <link rel="stylesheet" href="CSS_file_path">
+  <link rel="stylesheet" href="파일 경로">
 </head>
 ```
 
